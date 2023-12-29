@@ -36,4 +36,18 @@ html:
             <button class="pinky">\</button>
 
         </ul>
-         
+          <ul>
+            <button id="L3" class="pinky">caps lock</button>
+            <button class="pinky">A</button>
+            <button class="ring">S</button>
+            <button class="middle">D</button>
+            <button class="pointer1">F</button>
+            <button class="pointer2">G</button>
+            <button class="pointer2">H</button>
+            <button class="pointer1">J</button>
+            <button class="middle">K</button>
+            <button class="ring">L</button>
+            <button class="pinky">;</button>
+            <button class="pinky">"</button>
+            <button id="L3" class="pinky">return</button>
+        </ul>
