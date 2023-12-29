@@ -113,4 +113,6 @@ height: 40px;
 transition: .3s;
 }
 
-
+button:hover{
+    background-color: #001C30;
+}
