@@ -3,4 +3,19 @@ html:
 <body>
     <h2 draggable="true">K E Y B O R D</h2>
     <div>
-	
+	<ul>
+            <button class="pinky">'</button>
+            <button class="pinky">1</button>
+            <button class="ring">2</button>
+            <button class="middle">3</button>
+            <button class="pointer1">4</button>
+            <button class="pointer2">5</button>
+            <button class="pointer2">6</button>
+            <button class="pointer1">7</button>
+            <button class="middle">8</button>
+            <button class="ring">9</button>
+            <button class="pinky">10</button>
+            <button class="pinky">-</button>
+            <button class="pinky">+</button>
+            <button id="L1" class="pinky">delet</button>
+        </ul>
