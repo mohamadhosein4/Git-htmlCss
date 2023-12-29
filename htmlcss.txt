@@ -136,3 +136,7 @@ background-color: #DAFFFB;
 .pointer2{
 background-color: #FFD0D0;
 }
+
+#L1{
+width: 70px;
+}
