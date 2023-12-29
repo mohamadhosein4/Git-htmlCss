@@ -120,3 +120,7 @@ button:hover{
 .pinky{
 background-color: #176B87;
 }
+
+.ring{
+background-color: #64CCC5;
+}
