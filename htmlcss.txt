@@ -82,7 +82,12 @@ text-align: center;
 flex-direction: column;
 }
 
+h2{
 
+color: rgb(245,255,250);
+padding-top: 200px;
+margin-bottom: 50px;
+}
 
 
 
