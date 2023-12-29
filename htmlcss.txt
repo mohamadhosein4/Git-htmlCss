@@ -116,3 +116,7 @@ transition: .3s;
 button:hover{
     background-color: #001C30;
 }
+
+.pinky{
+background-color: #176B87;
+}
