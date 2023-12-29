@@ -19,3 +19,21 @@ html:
             <button class="pinky">+</button>
             <button id="L1" class="pinky">delet</button>
         </ul>
+        <ul>
+            <button id="L2" class="pinky">tab</button>
+            <button class="pinky">Q</button>
+            <button class="ring">W</button>
+            <button class="middle">E</button>
+            <button class="pointer1">R</button>
+            <button class="pointer2">T</button>
+            <button class="pointer2">Y</button>
+            <button class="pointer1">U</button>
+            <button class="middle">I</button>
+            <button class="ring">O</button>
+            <button class="pinky">P</button>
+            <button class="pinky">[</button>
+            <button class="pinky">]</button>
+            <button class="pinky">\</button>
+
+        </ul>
+         
